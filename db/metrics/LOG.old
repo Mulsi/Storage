@@ -1,0 +1,13 @@
+2019/11/29-13:28:34.341 1d04 Recovering log #20
+2019/11/29-13:28:34.341 1d04 Level-0 table #22: started
+2019/11/29-13:28:34.356 1d04 Level-0 table #22: 199 bytes OK
+2019/11/29-13:28:34.368 1d04 Delete type=0 #20
+2019/11/29-13:28:34.368 1d04 Delete type=3 #19
+2019/11/29-13:28:34.369 1df8 Compacting 4@0 + 0@1 files
+2019/11/29-13:28:34.400 1df8 Generated table #24@0: 1 keys, 199 bytes
+2019/11/29-13:28:34.400 1df8 Compacted 4@0 + 0@1 files => 199 bytes
+2019/11/29-13:28:34.403 1df8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2019/11/29-13:28:34.403 1df8 Delete type=2 #9
+2019/11/29-13:28:34.403 1df8 Delete type=2 #14
+2019/11/29-13:28:34.404 1df8 Delete type=2 #17
+2019/11/29-13:28:34.404 1df8 Delete type=2 #22
